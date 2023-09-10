@@ -1,0 +1,17 @@
+[urgency_low]
+background = "#1E1E2ECC"
+foreground = "#D9E0EE"
+frame_color = "#96CDFB"
+max_icon_size = 128
+
+[urgency_normal]
+background = "#1E1E2ECC"
+foreground = "#D9E0EE"
+frame_color = "#96CDFB"
+max_icon_size = 128
+
+[urgency_critical]
+background = "#1E1E2E"
+foreground = "#D9E0EE"
+frame_color = "#F8BD96"
+max_icon_size = 128

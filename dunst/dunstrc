@@ -1,17 +1,18 @@
 [urgency_low]
-background = "#1E1E2ECC"
-foreground = "#D9E0EE"
-frame_color = "#96CDFB"
-max_icon_size = 128
+    background = "#1e2030"
+    foreground = "#c8d3f5"
+    frame_color = "#c8d3f5"
+    max_icon_size = 128
 
 [urgency_normal]
-background = "#1E1E2ECC"
-foreground = "#D9E0EE"
-frame_color = "#96CDFB"
-max_icon_size = 128
+    background = "#222436"
+    foreground = "#c8d3f5"
+    frame_color = "#c8d3f5"
+    max_icon_size = 128
 
 [urgency_critical]
-background = "#1E1E2E"
-foreground = "#D9E0EE"
-frame_color = "#F8BD96"
-max_icon_size = 128
+    background = "#2f334d"
+    foreground = "#c53b53"
+    frame_color = "#c53b53"
+    max_icon_size = 128
+

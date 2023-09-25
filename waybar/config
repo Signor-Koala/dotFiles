@@ -1,7 +1,6 @@
 {
     "mode": "overlay",
     "position": "top", 
-    "exclusive": false,
     "start_hidden": true,
     "height": 30, 
     "spacing": 4, 
